@@ -12,4 +12,7 @@ public class Test1 {
 		System.out.println("=== Hello ===");
 	}
 	
+	public static void methodK2() {
+		//branch changes from eclipse
+	}
 }
