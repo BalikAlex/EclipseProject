@@ -5,4 +5,9 @@ public class Test1 {
 		// this is test 2
 
 	}
+	
+	public void methodK() {
+		System.out.println("=== Hello ===");
+	}
+	
 }
