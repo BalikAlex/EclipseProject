@@ -5,6 +5,8 @@ public class Test1 {
 		// this is test 2
 		
 		//this is repo changes!!!
+		
+		// === this is branch changes in repo
 
 	}
 	
@@ -12,4 +14,7 @@ public class Test1 {
 		System.out.println("=== Hello ===");
 	}
 	
+	public static void methodK2() {
+		//branch changes from eclipse
+	}
 }
